@@ -28,7 +28,7 @@ body {
 .sun {
   animation-name: rotateSun;
   left: 50%; /* Center the sun horizontally */
-  top: 60%; /* Center the sun vertically */
+  top: 61%; /* Center the sun vertically */
   transform: translate(-50%, -50%); /* Center the sun in the middle */
   background: url(images/sun7.jpeg);
 }
