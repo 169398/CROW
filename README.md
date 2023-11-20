@@ -4,7 +4,7 @@ Features Generates personalized learning plans based on grade, learning style, a
 
 Installation To install CROW, you will need to have Node.js and npm installed on your computer. Once you have installed these prerequisites, you can clone the Brain Box AI repository and install the dependencies using the following commands:
 
-Bash git clone https://github.com/USERNAME/brain-box-ai cd CROW npm install
+Bash git clone https://github.com/USERNAME/CROW cd CROW npm install
 
 Usage To start CROW you can run the following command:
 
